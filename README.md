@@ -1,6 +1,6 @@
-## Checkout the progect
+## Checkout the project
 
-First checkout the preject from github repository.
+Checkout the preject from this github repository.
 
 ## Available Scripts
 
