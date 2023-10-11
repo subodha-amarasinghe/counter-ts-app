@@ -44,7 +44,7 @@ function Counter() {
     <div className="App">
       <div>
         <label>Limit : </label>
-        <input type="number" value={limit} onChange={handleSetLimit} className="number-input"/>
+        <input type="number" value={limit} onChange={handleSetLimit} className="number-input" />
       </div>
       <p>Count : {count}</p>
 
@@ -57,6 +57,8 @@ function Counter() {
         <button onClick={decrease}>Decrease</button>
         <button onClick={reset}>Reset</button>
       </div>
+
+      <div>Version 1.0.1</div>
     </div>
   );
 }
