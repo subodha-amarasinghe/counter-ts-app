@@ -58,7 +58,12 @@ function Counter() {
         <button onClick={reset}>Reset</button>
       </div>
 
-      <div>Version 1.0.2</div>
+      <div>Version 1.0.3</div>
+      <br />
+      <hr />
+      <div>
+        <a href="todo">Todo</a>
+      </div>
     </div>
   );
 }
